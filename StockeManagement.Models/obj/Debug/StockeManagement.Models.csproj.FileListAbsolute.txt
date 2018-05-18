@@ -1,0 +1,12 @@
+c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockeManagement.Models\bin\Debug\StockeManagement.Models.dll
+c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockeManagement.Models\bin\Debug\StockeManagement.Models.pdb
+c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockeManagement.Models\obj\Debug\StockeManagement.Models.csprojResolveAssemblyReference.cache
+c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockeManagement.Models\obj\Debug\StockeManagement.Models.dll
+c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockeManagement.Models\obj\Debug\StockeManagement.Models.pdb
+c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockeManagement.Models\bin\Debug\StockeManagement.Models.dll.config
+c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockeManagement.Models\bin\Debug\EntityFramework.dll
+c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockeManagement.Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockeManagement.Models\bin\Debug\EntityFramework.xml
+c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockeManagement.Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockeManagement.Models\obj\Debug\StockeManagement.Models.Migrations.initial.resources
+c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockeManagement.Models\obj\Debug\StockeManagement.Models.csproj.GenerateResource.Cache
