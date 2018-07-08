@@ -24,3 +24,5 @@ D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockeMa
 D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockeManagement.Models\obj\Debug\StockeManagement.Models.Migrations.Party_add.resources
 D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockeManagement.Models\obj\Debug\StockeManagement.Models.Migrations.PartyTableChange.resources
 D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockeManagement.Models\obj\Debug\StockeManagement.Models.Migrations.stockModelPartyAdded.resources
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockeManagement.Models\obj\Debug\StockeManagement.Models.csprojResolveAssemblyReference.cache
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockeManagement.Models\obj\Debug\StockeManagement.Models.Migrations.EmployeeModelAdded.resources

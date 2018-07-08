@@ -66,8 +66,13 @@
     <Compile Include="Migrations\201807081732389_stockModelPartyAdded.Designer.cs">
       <DependentUpon>201807081732389_stockModelPartyAdded.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201807081850551_EmployeeModelAdded.cs" />
+    <Compile Include="Migrations\201807081850551_EmployeeModelAdded.Designer.cs">
+      <DependentUpon>201807081850551_EmployeeModelAdded.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Category.cs" />
+    <Compile Include="Models\Employee.cs" />
     <Compile Include="Models\Inventory.cs" />
     <Compile Include="Models\Party.cs" />
     <Compile Include="Models\Product.cs" />
@@ -90,6 +95,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201807081732389_stockModelPartyAdded.resx">
       <DependentUpon>201807081732389_stockModelPartyAdded.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807081850551_EmployeeModelAdded.resx">
+      <DependentUpon>201807081850551_EmployeeModelAdded.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
