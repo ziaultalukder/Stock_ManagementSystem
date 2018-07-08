@@ -11,6 +11,9 @@ namespace StockeManagement.Models.Models
         public int Id { get; set; }
         public string Description { get; set; }
         public DateTime StocInDate { get; set; }
-        public List<StockInDetails> StockInDetailses { get; set; }
+
+        public int? PartyId { get; set; }
+        public Party Party { get; set; }
+        public List<StockInDetails> StockInDetails { get; set; }
     }
 }

@@ -31,3 +31,56 @@ c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockManage
 c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockManagement\obj\Debug\StockManagement.csprojResolveAssemblyReference.cache
 c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockManagement\obj\Debug\StockManagement.dll
 c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockManagement\obj\Debug\StockManagement.pdb
+c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockManagement\bin\EntityFramework.dll
+c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockManagement\bin\EntityFramework.SqlServer.dll
+c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockManagement\bin\StockeManagement.Models.dll
+c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockManagement\bin\StockeManagement.Models.pdb
+c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockManagement\bin\EntityFramework.xml
+c:\users\ziaul\documents\visual studio 2015\Projects\StockManagement\StockManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\Ziaul\Documents\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\AutoMapper.dll
+C:\Users\Ziaul\Documents\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\AutoMapper.xml
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\roslyn\csc.exe
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\roslyn\vbc.exe
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\roslyn\VBCSCompiler.exe
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\StockManagement.dll.config
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\StockManagement.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\StockManagement.pdb
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\AutoMapper.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\EntityFramework.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\EntityFramework.SqlServer.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\StockeManagement.Models.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\System.Web.Helpers.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\System.Web.Mvc.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\System.Web.Razor.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\System.Web.Webpages.Deployment.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\System.Web.Webpages.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\System.Web.Webpages.Razor.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\StockeManagement.Models.pdb
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\AutoMapper.xml
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\EntityFramework.xml
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\EntityFramework.SqlServer.xml
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\System.Web.Razor.xml
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\System.Web.Webpages.xml
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\System.Web.Webpages.Deployment.xml
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\System.Web.Webpages.Razor.xml
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\System.Web.Helpers.xml
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\System.Web.Mvc.xml
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\obj\Debug\StockManagement.csprojResolveAssemblyReference.cache
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\obj\Debug\StockManagement.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\obj\Debug\StockManagement.pdb
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\StockManagement.BLL.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\StockManagement.BLL.pdb
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\StockManagement.Repository.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\StockManagement.Repository.pdb

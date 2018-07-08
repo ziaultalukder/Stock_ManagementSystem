@@ -4,6 +4,9 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
+using AutoMapper;
+using StockeManagement.Models.Models;
+using StockeManagement.Models.ViewModels;
 
 namespace StockManagement
 {
@@ -13,6 +16,12 @@ namespace StockManagement
         {
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
+
+            Mapper.Initialize(cfg =>
+            {
+                cfg.CreateMap<StockCreateVM, StockIn>();
+                cfg.CreateMap<StockIn, StockCreateVM>();
+            });
         }
     }
 }

@@ -54,19 +54,42 @@
     <Compile Include="Migrations\201805181011086_initial.Designer.cs">
       <DependentUpon>201805181011086_initial.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201807080725403_Party_add.cs" />
+    <Compile Include="Migrations\201807080725403_Party_add.Designer.cs">
+      <DependentUpon>201807080725403_Party_add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201807080733179_PartyTableChange.cs" />
+    <Compile Include="Migrations\201807080733179_PartyTableChange.Designer.cs">
+      <DependentUpon>201807080733179_PartyTableChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201807081732389_stockModelPartyAdded.cs" />
+    <Compile Include="Migrations\201807081732389_stockModelPartyAdded.Designer.cs">
+      <DependentUpon>201807081732389_stockModelPartyAdded.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Category.cs" />
     <Compile Include="Models\Inventory.cs" />
+    <Compile Include="Models\Party.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="Models\StockIn.cs" />
     <Compile Include="Models\StockInDetails.cs" />
     <Compile Include="Models\StockOut.cs" />
     <Compile Include="Models\StockOutDetails.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewModels\StockCreateVM.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201805181011086_initial.resx">
       <DependentUpon>201805181011086_initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807080725403_Party_add.resx">
+      <DependentUpon>201807080725403_Party_add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807080733179_PartyTableChange.resx">
+      <DependentUpon>201807080733179_PartyTableChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807081732389_stockModelPartyAdded.resx">
+      <DependentUpon>201807081732389_stockModelPartyAdded.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
