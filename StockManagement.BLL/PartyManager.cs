@@ -5,14 +5,25 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using StockManagement.BLL.Base;
+using StockManagement.Repository.Base;
 
 namespace StockManagement.BLL
 {    
-    public class PartyManager
+    public class PartyManager:Manager<Party>
     {
-        PartyRepository _Repository = new PartyRepository();
-
-        public bool Add(Party party)
+        private PartyRepository _partyRepository
+        {
+            get
+            {
+                PartyRepository partyRepository = (PartyRepository)_repository ;
+                return partyRepository;
+            }
+        }
+        public PartyManager() : base(new PartyRepository())
+        {
+        }
+        public override bool Add(Party party)
         {
             if (string.IsNullOrEmpty(party.Name))
             {
@@ -22,32 +33,13 @@ namespace StockManagement.BLL
             {
                 throw new Exception("Party Contact Number Is Not Provided");
             }
-            return _Repository.Add(party);
-        }
-        
-        public bool Update(Party party)
-        {
-            return _Repository.Update(party);
+            return _partyRepository.Add(party);
         }
 
-        public bool Remove(Party party)
+        public ICollection<Party> GetByName(string Name)
         {
-            return _Repository.Remove(party);
-        }
+            return _partyRepository.Get(c => c.Name.Contains(Name));
+        } 
 
-        public List<Party> GetAll (bool withDeleted = false)
-        {
-            return _Repository.GetAll(withDeleted);
-        }
-
-        public Party GetById(int id)
-        {
-            return _Repository.GetById(id);
-        }
-
-        public void Dispose()
-        {
-            _Repository.Dispose();
-        }
     }
 }

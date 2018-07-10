@@ -84,3 +84,5 @@ D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockMan
 D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\StockManagement.BLL.pdb
 D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\StockManagement.Repository.dll
 D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\StockManagement.Repository.pdb
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\StockManagement.Models.Contracts.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockManagement\bin\StockManagement.Models.Contracts.pdb

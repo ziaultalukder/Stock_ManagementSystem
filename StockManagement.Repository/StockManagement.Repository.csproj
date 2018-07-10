@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Base\Repository.cs" />
+    <Compile Include="EmployeeRepository.cs" />
     <Compile Include="PartyRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -48,6 +50,10 @@
     <ProjectReference Include="..\StockeManagement.Models\StockeManagement.Models.csproj">
       <Project>{93949dfc-fa97-4792-addf-3bbb515f78de}</Project>
       <Name>StockeManagement.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StockManagement.Models.Contracts\StockManagement.Models.Contracts.csproj">
+      <Project>{64054e77-4da9-4f34-97c8-e3e389247b34}</Project>
+      <Name>StockManagement.Models.Contracts</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

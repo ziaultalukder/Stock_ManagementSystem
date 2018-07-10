@@ -70,6 +70,10 @@
     <Compile Include="Migrations\201807081850551_EmployeeModelAdded.Designer.cs">
       <DependentUpon>201807081850551_EmployeeModelAdded.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201807101716389_totalAdded.cs" />
+    <Compile Include="Migrations\201807101716389_totalAdded.Designer.cs">
+      <DependentUpon>201807101716389_totalAdded.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Category.cs" />
     <Compile Include="Models\Employee.cs" />
@@ -99,10 +103,19 @@
     <EmbeddedResource Include="Migrations\201807081850551_EmployeeModelAdded.resx">
       <DependentUpon>201807081850551_EmployeeModelAdded.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807101716389_totalAdded.resx">
+      <DependentUpon>201807101716389_totalAdded.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StockManagement.Models.Contracts\StockManagement.Models.Contracts.csproj">
+      <Project>{64054E77-4DA9-4F34-97C8-E3E389247B34}</Project>
+      <Name>StockManagement.Models.Contracts</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -26,3 +26,6 @@ D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockeMa
 D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockeManagement.Models\obj\Debug\StockeManagement.Models.Migrations.stockModelPartyAdded.resources
 D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockeManagement.Models\obj\Debug\StockeManagement.Models.csprojResolveAssemblyReference.cache
 D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockeManagement.Models\obj\Debug\StockeManagement.Models.Migrations.EmployeeModelAdded.resources
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockeManagement.Models\bin\Debug\StockManagement.Models.Contracts.dll
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockeManagement.Models\bin\Debug\StockManagement.Models.Contracts.pdb
+D:\All Documents\Document 4\Visual Studio 2015\Projects\StockManagement\StockeManagement.Models\obj\Debug\StockeManagement.Models.Migrations.totalAdded.resources

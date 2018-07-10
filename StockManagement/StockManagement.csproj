@@ -279,6 +279,10 @@
       <Project>{2175b649-a036-4d5c-8e54-a9cdc64a12fe}</Project>
       <Name>StockManagement.BLL</Name>
     </ProjectReference>
+    <ProjectReference Include="..\StockManagement.Models.Contracts\StockManagement.Models.Contracts.csproj">
+      <Project>{64054E77-4DA9-4F34-97C8-E3E389247B34}</Project>
+      <Name>StockManagement.Models.Contracts</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

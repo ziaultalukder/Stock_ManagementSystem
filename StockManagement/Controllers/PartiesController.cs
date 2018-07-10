@@ -84,6 +84,7 @@ namespace StockManagement.Controllers
         {
             if (ModelState.IsValid)
             {
+                party.DeletedBy = DateTime.Now;
                 _Manager.Update(party);
                 return RedirectToAction("Index");
             }
